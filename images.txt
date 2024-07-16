@@ -1,3 +1,6 @@
 centos
 tomcat
 redis
+mysql
+oracle
+sqlserver
