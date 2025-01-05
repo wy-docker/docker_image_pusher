@@ -2,4 +2,4 @@ centos
 tomcat
 redis
 mysql
-zabbix:4.4
+zabbix:4.4.7
