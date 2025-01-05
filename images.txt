@@ -3,3 +3,4 @@ tomcat
 redis
 mysql
 zabbix
+Kubernetes
