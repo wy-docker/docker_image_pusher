@@ -1,6 +1,1 @@
-centos
-tomcat
-redis
-mysql
-zabbix
-Kubernetes
+ubuntu
