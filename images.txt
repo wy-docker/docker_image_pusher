@@ -2,3 +2,4 @@ centos
 tomcat
 redis
 mysql
+zabbix
